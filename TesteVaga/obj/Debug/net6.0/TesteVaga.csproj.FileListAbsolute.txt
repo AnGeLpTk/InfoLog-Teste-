@@ -1,0 +1,30 @@
+C:\Users\patri\source\repos\TesteVaga\TesteVaga\bin\Debug\net6.0\TesteVaga.exe
+C:\Users\patri\source\repos\TesteVaga\TesteVaga\bin\Debug\net6.0\TesteVaga.deps.json
+C:\Users\patri\source\repos\TesteVaga\TesteVaga\bin\Debug\net6.0\TesteVaga.runtimeconfig.json
+C:\Users\patri\source\repos\TesteVaga\TesteVaga\bin\Debug\net6.0\TesteVaga.dll
+C:\Users\patri\source\repos\TesteVaga\TesteVaga\bin\Debug\net6.0\TesteVaga.pdb
+C:\Users\patri\source\repos\TesteVaga\TesteVaga\obj\Debug\net6.0\TesteVaga.csproj.AssemblyReference.cache
+C:\Users\patri\source\repos\TesteVaga\TesteVaga\obj\Debug\net6.0\TesteVaga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\source\repos\TesteVaga\TesteVaga\obj\Debug\net6.0\TesteVaga.AssemblyInfoInputs.cache
+C:\Users\patri\source\repos\TesteVaga\TesteVaga\obj\Debug\net6.0\TesteVaga.AssemblyInfo.cs
+C:\Users\patri\source\repos\TesteVaga\TesteVaga\obj\Debug\net6.0\TesteVaga.csproj.CoreCompileInputs.cache
+C:\Users\patri\source\repos\TesteVaga\TesteVaga\obj\Debug\net6.0\TesteVaga.dll
+C:\Users\patri\source\repos\TesteVaga\TesteVaga\obj\Debug\net6.0\refint\TesteVaga.dll
+C:\Users\patri\source\repos\TesteVaga\TesteVaga\obj\Debug\net6.0\TesteVaga.pdb
+C:\Users\patri\source\repos\TesteVaga\TesteVaga\obj\Debug\net6.0\TesteVaga.genruntimeconfig.cache
+C:\Users\patri\source\repos\TesteVaga\TesteVaga\obj\Debug\net6.0\ref\TesteVaga.dll
+C:\Users\p.bertoli\OneDrive - BRASIL TERMINAL PORTUARIO SA\Documentos\PTK\TesteInfoLog\TesteVaga\TesteVaga\obj\Debug\net6.0\TesteVaga.csproj.AssemblyReference.cache
+C:\Users\p.bertoli\OneDrive - BRASIL TERMINAL PORTUARIO SA\Documentos\PTK\TesteInfoLog\TesteVaga\TesteVaga\obj\Debug\net6.0\TesteVaga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p.bertoli\OneDrive - BRASIL TERMINAL PORTUARIO SA\Documentos\PTK\TesteInfoLog\TesteVaga\TesteVaga\obj\Debug\net6.0\TesteVaga.AssemblyInfoInputs.cache
+C:\Users\p.bertoli\OneDrive - BRASIL TERMINAL PORTUARIO SA\Documentos\PTK\TesteInfoLog\TesteVaga\TesteVaga\obj\Debug\net6.0\TesteVaga.AssemblyInfo.cs
+C:\Users\p.bertoli\OneDrive - BRASIL TERMINAL PORTUARIO SA\Documentos\PTK\TesteInfoLog\TesteVaga\TesteVaga\obj\Debug\net6.0\TesteVaga.csproj.CoreCompileInputs.cache
+C:\Users\p.bertoli\OneDrive - BRASIL TERMINAL PORTUARIO SA\Documentos\PTK\TesteInfoLog\TesteVaga\TesteVaga\obj\Debug\net6.0\TesteVaga.dll
+C:\Users\p.bertoli\OneDrive - BRASIL TERMINAL PORTUARIO SA\Documentos\PTK\TesteInfoLog\TesteVaga\TesteVaga\obj\Debug\net6.0\refint\TesteVaga.dll
+C:\Users\p.bertoli\OneDrive - BRASIL TERMINAL PORTUARIO SA\Documentos\PTK\TesteInfoLog\TesteVaga\TesteVaga\obj\Debug\net6.0\TesteVaga.pdb
+C:\Users\p.bertoli\OneDrive - BRASIL TERMINAL PORTUARIO SA\Documentos\PTK\TesteInfoLog\TesteVaga\TesteVaga\bin\Debug\net6.0\TesteVaga.exe
+C:\Users\p.bertoli\OneDrive - BRASIL TERMINAL PORTUARIO SA\Documentos\PTK\TesteInfoLog\TesteVaga\TesteVaga\bin\Debug\net6.0\TesteVaga.deps.json
+C:\Users\p.bertoli\OneDrive - BRASIL TERMINAL PORTUARIO SA\Documentos\PTK\TesteInfoLog\TesteVaga\TesteVaga\bin\Debug\net6.0\TesteVaga.runtimeconfig.json
+C:\Users\p.bertoli\OneDrive - BRASIL TERMINAL PORTUARIO SA\Documentos\PTK\TesteInfoLog\TesteVaga\TesteVaga\bin\Debug\net6.0\TesteVaga.dll
+C:\Users\p.bertoli\OneDrive - BRASIL TERMINAL PORTUARIO SA\Documentos\PTK\TesteInfoLog\TesteVaga\TesteVaga\bin\Debug\net6.0\TesteVaga.pdb
+C:\Users\p.bertoli\OneDrive - BRASIL TERMINAL PORTUARIO SA\Documentos\PTK\TesteInfoLog\TesteVaga\TesteVaga\obj\Debug\net6.0\TesteVaga.genruntimeconfig.cache
+C:\Users\p.bertoli\OneDrive - BRASIL TERMINAL PORTUARIO SA\Documentos\PTK\TesteInfoLog\TesteVaga\TesteVaga\obj\Debug\net6.0\ref\TesteVaga.dll
